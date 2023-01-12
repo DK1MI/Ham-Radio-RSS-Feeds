@@ -31,6 +31,7 @@ The following feeds are included in this OPML file:
  * PE4BAS Amateur Radio Weblog: https://pe4bas.blogspot.com/rss.xml
  * The Long Green Tunnel: https://longgreentunnel.blogspot.com/feeds/posts/default
  * W0ABE.com: https://w0abe.com/rss.xml
+ * N3VEM Blog: https://n3vem.com/blog/feed.xml
  * fl9 blog: https://blog.fl9.eu/feed.xml
  * kelvindean: https://kelvindean.wordpress.com/feed/
  * notes.jj1bdx.tokyo blog: https://notes.jj1bdx.tokyo/blog/rss.xml
