@@ -1,4 +1,4 @@
-# Ham-Radio-RSS-Feeds
+# Ham Radio RSS Feeds
 
 This repository contains an OPML file containing Ham Radio related RSS feeds.
 
