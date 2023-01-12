@@ -23,6 +23,7 @@
       <outline type="rss" text="PE4BAS Amateur Radio Weblog" xmlUrl="https://pe4bas.blogspot.com/rss.xml" htmlUrl="https://pe4bas.blogspot.com/"/>
       <outline type="rss" text="The Long Green Tunnel" xmlUrl="https://longgreentunnel.blogspot.com/feeds/posts/default" htmlUrl="https://longgreentunnel.blogspot.com/"/>
       <outline type="rss" text="W0ABE.com" xmlUrl="https://w0abe.com/rss.xml" htmlUrl="https://w0abe.com"/>
+      <outline type="rss" text="N3VEM Blog" xmlUrl="https://n3vem.com/blog/feed.xml" htmlUrl="https://n3vem.com/blog/"/>
       <outline type="rss" text="fl9 blog" xmlUrl="https://blog.fl9.eu/feed.xml" htmlUrl="http://blog.fl9.eu"/>
       <outline type="rss" text="kelvindean" xmlUrl="https://kelvindean.wordpress.com/feed/" htmlUrl="https://kelvindean.wordpress.com"/>
       <outline type="rss" text="notes.jj1bdx.tokyo blog" xmlUrl="https://notes.jj1bdx.tokyo/blog/rss.xml" htmlUrl="https://notes.jj1bdx.tokyo/blog/index.html"/>
@@ -34,6 +35,8 @@
       <outline type="rss" text="F4FXL" xmlUrl="https://www.f4fxl.org/feed/" htmlUrl="https://www.f4fxl.org"/>
       <outline type="rss" text="KB6NU's Ham Radio Blog" xmlUrl="http://kb6nu.com/feed/" htmlUrl="https://www.kb6nu.com"/>
       <outline type="rss" text="Q R P e r" xmlUrl="http://qrper.com/feed/" htmlUrl="https://qrper.com"/>
+
+      https://n3vem.com/blog/feed.xml
     </outline>
     <outline text="Ham Radio">
       <outline type="rss" text=" Ham Radio - QRP" xmlUrl="http://n4pbq.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://www.hamradioqrp.com/"/>
