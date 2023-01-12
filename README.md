@@ -165,6 +165,10 @@ The following feeds are included in this OPML file:
  * Wireless Institute of Australia News Netcast: http://www.wia-files.com/podcast/wianews.xml
  * rtl-sdr.com: https://www.rtl-sdr.com/feed
 
+## Credits
+
+I am very sorry but I can't give credits to anyone although I probably should. I remember that I've copied a larger portion of the above from some other place but I can't remember where.
+
 ## Please contribute
 
 Please help me with this with additions and corrections by sending PRs, opening issues or contacting me directly: https://dk1mi.radio/about/
