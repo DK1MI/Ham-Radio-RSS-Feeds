@@ -1,165 +1,150 @@
-<?xml version="1.0" encoding="utf-8"?>
-<opml version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
-    <dateCreated>Thu, 12 Jan 2023 09:52:04 +0000</dateCreated>
-    <title>Tiny Tiny RSS Feed Export</title>
+    <title>HamBlogs.club</title>
+    <dateCreated>Sat, 26 Aug 2023 13:49:40 +0000</dateCreated>
   </head>
   <body>
     <outline text="Fediverse Hams">
-      <outline type="rss" text="2M0SQL" xmlUrl="https://www.2m0sql.com/feed/" htmlUrl="https://www.2m0sql.com/"/>
-      <outline type="rss" text="Adventure-Log" xmlUrl="https://www.adventure-log.com/index.php/feed/" htmlUrl="https://www.adventure-log.com"/>
-      <outline type="rss" text="Chez VE6LK" xmlUrl="https://ve6lk.com/feed/" htmlUrl="https://ve6lk.com"/>
-      <outline type="rss" text="DO1MJ" xmlUrl="https://do1mj.de/index.xml" htmlUrl="https://do1mj.de/"/>
-      <outline type="rss" text="Doug Fredericks" xmlUrl="http://dougfredericks.net/feed/" htmlUrl="https://dougfredericks.net"/>
-      <outline type="rss" text="ElMarko says things" xmlUrl="https://pentler.blogspot.com/rss.xml" htmlUrl="https://pentler.blogspot.com/"/>
-      <outline type="rss" text="HB9HLI" xmlUrl="https://hb9hli.radio/blog/feed/" htmlUrl="https://hb9hli.radio/blog"/>
-      <outline type="rss" text="Ham On A Bike" xmlUrl="https://hamonabike.blogspot.com/rss.xml" htmlUrl="https://hamonabike.blogspot.com/"/>
-      <outline type="rss" text="Home Page on K8VSY blog" xmlUrl="https://k8vsy.radio/index.xml" htmlUrl="https://k8vsy.radio/"/>
-      <outline type="rss" text="KC8JC" xmlUrl="https://www.kc8jc.com/feed/" htmlUrl="https://www.kc8jc.com"/>
-      <outline type="rss" text="M0LMK" xmlUrl="https://www.m0lmk.co.uk/feed/" htmlUrl="https://www.m0lmk.co.uk"/>
-      <outline type="rss" text="Midnight Cheese Blog" xmlUrl="https://midnightcheese.com/atom.xml" htmlUrl="https://midnightcheese.com/"/>
-      <outline type="rss" text="N6CTA" xmlUrl="https://n6cta.com/feed/" htmlUrl="https://n6cta.com"/>
-      <outline type="rss" text="PE2V" xmlUrl="https://pe2v.nl/feed/" htmlUrl="https://pe2v.nl/"/>
-      <outline type="rss" text="PE4BAS Amateur Radio Weblog" xmlUrl="https://pe4bas.blogspot.com/rss.xml" htmlUrl="https://pe4bas.blogspot.com/"/>
-      <outline type="rss" text="The Long Green Tunnel" xmlUrl="https://longgreentunnel.blogspot.com/feeds/posts/default" htmlUrl="https://longgreentunnel.blogspot.com/"/>
-      <outline type="rss" text="VU2JXN Station log" xmlUrl="https://vu3rdd.me/index.rss" htmlUrl="https://vu3rdd.me/"/>
-      <outline type="rss" text="W0ABE.com" xmlUrl="https://w0abe.com/rss.xml" htmlUrl="https://w0abe.com"/>
-      <outline type="rss" text="N3VEM Blog" xmlUrl="https://n3vem.com/blog/feed.xml" htmlUrl="https://n3vem.com/blog/"/>
-      <outline type="rss" text="fl9 blog" xmlUrl="https://blog.fl9.eu/feed.xml" htmlUrl="http://blog.fl9.eu"/>
-      <outline type="rss" text="kelvindean" xmlUrl="https://kelvindean.wordpress.com/feed/" htmlUrl="https://kelvindean.wordpress.com"/>
-      <outline type="rss" text="notes.jj1bdx.tokyo blog" xmlUrl="https://notes.jj1bdx.tokyo/blog/rss.xml" htmlUrl="https://notes.jj1bdx.tokyo/blog/index.html"/>
-      <outline type="rss" text="DK1MI" xmlUrl="https://dk1mi.radio/index.xml" htmlUrl="https://dk1mi.radio/"/>
-      <outline type="rss" text="KY4QX" xmlUrl="https://www.ky4qx.com/feed.xml" htmlUrl="https://ky4qx.com"/>
-      <outline type="rss" text="M0YNG.uk Feed" xmlUrl="https://m0yng.uk/rss.xml" htmlUrl="http://m0yng.uk/rss.xml"/>
-      <outline type="rss" text="Posts on F1RUM's blog" xmlUrl="https://f1rum.fr/posts/index.xml" htmlUrl="https://f1rum.fr/posts/"/>
-      <outline type="rss" text="Yelling at clouds" xmlUrl="https://yelling-at-clouds.gq/rss/" htmlUrl="https://yelling-at-clouds.gq/"/>
-      <outline type="rss" text="F4FXL" xmlUrl="https://www.f4fxl.org/feed/" htmlUrl="https://www.f4fxl.org"/>
-      <outline type="rss" text="KB6NU's Ham Radio Blog" xmlUrl="http://kb6nu.com/feed/" htmlUrl="https://www.kb6nu.com"/>
-      <outline type="rss" text="Q R P e r" xmlUrl="http://qrper.com/feed/" htmlUrl="https://qrper.com"/>
-
-      https://n3vem.com/blog/feed.xml
+      <outline text="2M0SQL" type="rss" xmlUrl="https://www.2m0sql.com/feed/" htmlUrl="https://www.2m0sql.com/" description=""/>
+      <outline text="Adventure-Log" type="rss" xmlUrl="https://www.adventure-log.com/index.php/feed/" htmlUrl="https://www.adventure-log.com" description=""/>
+      <outline text="DK1MI.radio" type="rss" xmlUrl="https://dk1mi.radio/feed/" htmlUrl="https://dk1mi.radio/" description="I write about my adventures in amateur radio, hardware and software projects and about IT security related topics."/>
+      <outline text="dl6joe.de" type="rss" xmlUrl="https://dl6joe.de/feed/" htmlUrl="https://dl6joe.de/" description="DL6JOE Ham Radio"/>
+      <outline text="DO1MJ" type="rss" xmlUrl="https://do1mj.de/index.xml" htmlUrl="https://do1mj.de/" description=""/>
+      <outline text="Doug Fredericks" type="rss" xmlUrl="http://dougfredericks.net/feed/" htmlUrl="https://dougfredericks.net" description=""/>
+      <outline text="ElMarko says things" type="rss" xmlUrl="https://pentler.blogspot.com/rss.xml" htmlUrl="https://pentler.blogspot.com/" description=""/>
+      <outline text="F4FXL" type="rss" xmlUrl="https://www.f4fxl.org/feed/" htmlUrl="https://www.f4fxl.org" description=""/>
+      <outline text="fl9 blog" type="rss" xmlUrl="https://blog.fl9.eu/feed.xml" htmlUrl="http://blog.fl9.eu" description=""/>
+      <outline text="Ham On A Bike" type="rss" xmlUrl="https://hamonabike.blogspot.com/rss.xml" htmlUrl="https://hamonabike.blogspot.com/" description=""/>
+      <outline text="HB9HLI" type="rss" xmlUrl="https://hb9hli.radio/blog/feed/" htmlUrl="https://hb9hli.radio/blog" description=""/>
+      <outline text="HB9HOX" type="rss" xmlUrl="https://hb9hox.radio/en/index.xml" htmlUrl="https://hb9hox.radio/en/" description="Recent content on HB9HOX"/>
+      <outline text="HB9HOX" type="rss" xmlUrl="https://hb9hox.radio/de/index.xml" htmlUrl="https://hb9hox.radio/de/" description="Recent content on HB9HOX"/>
+      <outline text="Home Page on K8VSY blog" type="rss" xmlUrl="https://k8vsy.radio/index.xml" htmlUrl="https://k8vsy.radio/" description=""/>
+      <outline text="KB6NU's Ham Radio Blog" type="rss" xmlUrl="https://www.kb6nu.com/feed/" htmlUrl="https://www.kb6nu.com" description=""/>
+      <outline text="KC8JC" type="rss" xmlUrl="https://www.kc8jc.com/feed/" htmlUrl="https://www.kc8jc.com" description=""/>
+      <outline text="kelvindean" type="rss" xmlUrl="https://kelvindean.wordpress.com/feed/" htmlUrl="https://kelvindean.wordpress.com" description=""/>
+      <outline text="KY4QX" type="rss" xmlUrl="https://www.ky4qx.com/feed.xml" htmlUrl="https://ky4qx.com" description=""/>
+      <outline text="M0LMK" type="rss" xmlUrl="https://www.m0lmk.co.uk/feed/" htmlUrl="https://www.m0lmk.co.uk" description=""/>
+      <outline text="M0YNG.uk Feed" type="rss" xmlUrl="https://m0yng.uk/rss.xml" htmlUrl="http://m0yng.uk/rss.xml" description=""/>
+      <outline text="Midnight Cheese Blog" type="rss" xmlUrl="https://midnightcheese.com/atom.xml" htmlUrl="https://midnightcheese.com/" description=""/>
+      <outline text="N3VEM Blog" type="rss" xmlUrl="https://n3vem.com/blog/feed.xml" htmlUrl="https://n3vem.com/blog/" description=""/>
+      <outline text="N6CTA" type="rss" xmlUrl="https://n6cta.com/feed/" htmlUrl="https://n6cta.com" description=""/>
+      <outline text="notes.jj1bdx.tokyo blog" type="rss" xmlUrl="https://notes.jj1bdx.tokyo/blog/rss.xml" htmlUrl="https://notes.jj1bdx.tokyo/blog/index.html" description=""/>
+      <outline text="PE2V" type="rss" xmlUrl="https://pe2v.nl/feed/" htmlUrl="https://pe2v.nl/" description=""/>
+      <outline text="PE4BAS Amateur Radio Weblog" type="rss" xmlUrl="https://pe4bas.blogspot.com/rss.xml" htmlUrl="https://pe4bas.blogspot.com/" description=""/>
+      <outline text="Posts on F1RUM's blog" type="rss" xmlUrl="https://f1rum.fr/posts/index.xml" htmlUrl="https://f1rum.fr/posts/" description=""/>
+      <outline text="Posts on G7UFO" type="rss" xmlUrl="https://g7ufo.radio/posts/index.xml" htmlUrl="https://g7ufo.radio/posts/" description="Recent content in Posts on G7UFO"/>
+      <outline text="Q R P e r" type="rss" xmlUrl="https://qrper.com/feed/" htmlUrl="https://qrper.com" description="QRP radios, product announcements, reviews, news and more. Low power amateur radio fun!"/>
+      <outline text="The Long Green Tunnel" type="rss" xmlUrl="https://longgreentunnel.blogspot.com/feeds/posts/default" htmlUrl="https://longgreentunnel.blogspot.com/" description=""/>
+      <outline text="VU2JXN Station log" type="rss" xmlUrl="https://vu3rdd.me/index.rss" htmlUrl="https://vu3rdd.me/" description=""/>
+      <outline text="W0ABE.com" type="rss" xmlUrl="https://w0abe.com/rss.xml" htmlUrl="https://w0abe.com" description=""/>
+      <outline text="Yelling at clouds" type="rss" xmlUrl="https://yelling-at-clouds.gq/rss/" htmlUrl="https://yelling-at-clouds.gq/" description="Cloud, DevOps, ham radio, photography and general tinkering around"/>
+      <outline text="Zero Retries" type="rss" xmlUrl="https://www.zeroretries.org/feed" htmlUrl="https://www.zeroretries.org/" description="An independent newsletter about technological innovation in Amateur Radio, promoting Amateur Radio as (literally) a license to experiment with and learn about radio technology."/>
     </outline>
-    <outline text="Ham Radio">
-      <outline type="rss" text=" Ham Radio - QRP" xmlUrl="http://n4pbq.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://www.hamradioqrp.com/"/>
-      <outline type="rss" text="AE5X" xmlUrl="http://ae5x.blogspot.com/feeds/posts/default" htmlUrl="http://ae5x.blogspot.com/"/>
-      <outline type="rss" text="AE5X" xmlUrl="https://ae5x.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://ae5x.blogspot.com/"/>
-      <outline type="rss" text="AMATEUR RADIO – HOMEBREW SDR" xmlUrl="https://w7fu.com/feed/" htmlUrl="http://w7fu.com"/>
-      <outline type="rss" text="Advancing Ham Radio.. different ideas" xmlUrl="http://feeds.feedburner.com/AdvancingHamRadioDifferentIdeas" htmlUrl="http://kb9mwr.blogspot.com/"/>
-      <outline type="rss" text="Amateur Radio/YL's" xmlUrl="http://ka1uln.blogspot.com/feeds/posts/default" htmlUrl="http://ka1uln.blogspot.com/"/>
-      <outline type="rss" text="AmateurRadio.com" xmlUrl="http://feeds.feedburner.com/amateurradiocom" htmlUrl="https://www.amateurradio.com"/>
-      <outline type="rss" text="Blog" xmlUrl="https://amateurfunk-blog.de/blog?format=feed&amp;amp;type=rss" htmlUrl="https://www.dk9jc.de/"/>
-      <outline type="rss" text="Dave Richards AA7EE" xmlUrl="http://aa7ee.wordpress.com/feed/" htmlUrl="https://aa7ee.wordpress.com"/>
-      <outline type="rss" text="Dom Smith" xmlUrl="http://www.domsmith.co.uk/blog/feed/" htmlUrl="https://www.domsmith.co.uk/blog"/>
-      <outline type="rss" text="DuWayne's Place" xmlUrl="http://kv4qb.blogspot.com/feeds/posts/default" htmlUrl="http://kv4qb.blogspot.com/"/>
-      <outline type="rss" text="EI7GL....A diary of amateur radio activity" xmlUrl="https://ei7gl.blogspot.com/feeds/posts/default" htmlUrl="https://ei7gl.blogspot.com/"/>
-      <outline type="rss" text="G0KYA's Amateur Radio Blog" xmlUrl="http://g0kya.blogspot.com/feeds/posts/default" htmlUrl="http://g0kya.blogspot.com/"/>
-      <outline type="rss" text="G0MGX In the Shack" xmlUrl="http://g0mgx.blogspot.com/feeds/posts/default" htmlUrl="http://g0mgx.blogspot.com/"/>
-      <outline type="rss" text="HAMSPIRIT.DE" xmlUrl="https://www.hamspirit.de/feed/" htmlUrl="https://www.hamspirit.de"/>
-      <outline type="rss" text="HF Radio Blog" xmlUrl="http://m6rdp.blogspot.com/feeds/posts/default" htmlUrl="http://m6rdp.blogspot.com/"/>
-      <outline type="rss" text="Ham Radio . Magnum Experimentum" xmlUrl="http://www.hamradio.me/feed" htmlUrl="https://www.hamradio.me"/>
-      <outline type="rss" text="Ham Radio Blog by AG1LE" xmlUrl="http://ag1le.blogspot.com/feeds/posts/default" htmlUrl="http://ag1le.blogspot.com/"/>
-      <outline type="rss" text="Ham Radio Operator - M0YKS" xmlUrl="http://hamradiooperator.blogspot.com/feeds/posts/default" htmlUrl="https://hamradiooperator.blogspot.com/"/>
-      <outline type="rss" text="Ham Radio Workbench Podcast" xmlUrl="https://workbench.libsyn.com/rss" htmlUrl="http://hamradioworkbench.com/"/>
-      <outline type="rss" text="Ham Radio with K0PIR – Icom 7300 and 7610 SDR Transceivers" xmlUrl="http://www.k0pir.us/feed/" htmlUrl="https://www.k0pir.us"/>
-      <outline type="rss" text="Ham Radio – Ham Events – Ham Reviews – Ham Links – Ham News" xmlUrl="http://ke2yk.wordpress.com/feed/" htmlUrl="https://ke2yk.com"/>
-      <outline type="rss" text="Johns Tech Blog" xmlUrl="https://www.hagensieker.com/wordpress/feed/" htmlUrl="https://www.hagensieker.com/wordpress"/>
-      <outline type="rss" text="K4FMH" xmlUrl="http://k4fmh.com/feed/" htmlUrl="http://k4fmh.com"/>
-      <outline type="rss" text="K8UA" xmlUrl="http://k8ua.com/feed/" htmlUrl="http://k8ua.com"/>
-      <outline type="rss" text="K8ZT" xmlUrl="http://k8zt.blogspot.com/feeds/posts/default" htmlUrl="https://k8zt.blogspot.com/"/>
-      <outline type="rss" text="KA7OEI's blog" xmlUrl="http://ka7oei.blogspot.com/feeds/posts/default" htmlUrl="http://ka7oei.blogspot.com/"/>
-      <outline type="rss" text="KB9VBR Antennas" xmlUrl="http://feeds.feedburner.com/Kb9vbrJ-poleAntennas" htmlUrl="https://www.jpole-antenna.com"/>
-      <outline type="rss" text="KD8CEC Amateur Radio" xmlUrl="http://www.hamskey.com/feeds/posts/default?alt=rss" htmlUrl="http://www.hamskey.com/"/>
-      <outline type="rss" text="KE6MT" xmlUrl="https://www.ke6mt.us/feed/" htmlUrl="http://www.ke6mt.us/"/>
-      <outline type="rss" text="KK4DSD" xmlUrl="http://kk4dsd.com/feed/" htmlUrl="https://kk4dsd.com"/>
-      <outline type="rss" text="KN4CFI's Ham Radio Blog - RSS" xmlUrl="https://blog.kn4cfi.net/feeds/posts/default?alt=rss" htmlUrl="https://blog.kn4cfi.net/"/>
-      <outline type="rss" text="LA3ZA Radio &amp; Electronics" xmlUrl="http://la3za.blogspot.com/feeds/posts/default" htmlUrl="https://la3za.blogspot.com/"/>
-      <outline type="rss" text="M0JCQ's Ham Blog" xmlUrl="http://www.hamblog.co.uk/feed/" htmlUrl="http://www.hamblog.co.uk"/>
-      <outline type="rss" text="M0PZT" xmlUrl="http://www.m0pzt.com/feed/" htmlUrl="http://www.m0pzt.com"/>
-      <outline type="rss" text="M1KTA's QRP ham radio blog" xmlUrl="http://m1kta-qrp.blogspot.com/feeds/posts/default" htmlUrl="http://m1kta-qrp.blogspot.com/"/>
-      <outline type="rss" text="MiscDotGeek" xmlUrl="http://miscdotgeek.com/feed/" htmlUrl="https://miscdotgeek.com"/>
-      <outline type="rss" text="My Amateur Radio Life" xmlUrl="http://va3qv.wordpress.com/feed/" htmlUrl="https://va3qv.wordpress.com"/>
-      <outline type="rss" text="N0UN.net" xmlUrl="http://www.n0un.net/feed/" htmlUrl="https://www.n0un.net"/>
-      <outline type="rss" text="N1CLC" xmlUrl="https://www.n1clc.com/feeds/posts/default?alt=rss" htmlUrl="https://www.n1clc.com/"/>
-      <outline type="rss" text="N4KGL - RaDAR" xmlUrl="http://www.n4kgl.info/feeds/posts/default" htmlUrl="https://www.n4kgl.info/"/>
-      <outline type="rss" text="N6QW ~ The Ham Oracle" xmlUrl="http://n6qw.blogspot.com/feeds/posts/default" htmlUrl="http://n6qw.blogspot.com/"/>
-      <outline type="rss" text="ND9E Ham radio blog" xmlUrl="http://nd9e.blogspot.com/feeds/posts/default" htmlUrl="http://nd9e.blogspot.com/"/>
-      <outline type="rss" text="Nuclearrambo" xmlUrl="https://nuclearrambo.com/wordpress/feed/" htmlUrl="https://nuclearrambo.com/wordpress"/>
-      <outline type="rss" text="NØSSC's Ham Radio Blog" xmlUrl="http://n0ssc.com/feed" htmlUrl="https://n0ssc.com"/>
-      <outline type="rss" text="OH8STN Ham Radio" xmlUrl="http://oh8stn.org/feed/" htmlUrl="http://oh8stn.org"/>
-      <outline type="rss" text="ON5ZO  ~  OQ5M" xmlUrl="http://www.on5zo.be/feed/" htmlUrl="https://www.on5zo.be"/>
-      <outline type="rss" text="Off Grid Ham" xmlUrl="http://offgridham.com/feed/" htmlUrl="https://offgridham.com"/>
-      <outline type="rss" text="OnAllBands" xmlUrl="https://www.onallbands.com/feed/" htmlUrl="https://www.onallbands.com"/>
-      <outline type="rss" text="Our HAM Station" xmlUrl="http://stationproject.wordpress.com/feed/" htmlUrl="https://stationproject.blog"/>
-      <outline type="rss" text="PA1B's QRPp Blog" xmlUrl="http://pa1b-qrp.blogspot.com/feeds/posts/default" htmlUrl="http://pa1b-qrp.blogspot.com/"/>
-      <outline type="rss" text="PA3HHO's" xmlUrl="http://pa3hho.wordpress.com/feed/" htmlUrl="https://pa3hho.wordpress.com"/>
-      <outline type="rss" text="PAØK" xmlUrl="http://radiozendamateur.blogspot.com/feeds/posts/default" htmlUrl="https://radiozendamateur.blogspot.com/"/>
-      <outline type="rss" text="PE4BAS Amateur Radio Weblog" xmlUrl="http://pe4bas.blogspot.com/feeds/posts/default" htmlUrl="https://pe4bas.blogspot.com/"/>
-      <outline type="rss" text="PE4BAS Amateur Radio Weblog" xmlUrl="https://pe4bas.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://pe4bas.blogspot.com/"/>
-      <outline type="rss" text="Paul Gacek" xmlUrl="https://w6png.wordpress.com/feed/" htmlUrl="https://nomadic.blog"/>
-      <outline type="rss" text="PriUPS web site and RIKLblog" xmlUrl="http://www.priups.com/rss.xml" htmlUrl="http://PriUPS.com"/>
-      <outline type="rss" text="QRP HomeBuilder - QRPHB -" xmlUrl="http://qrp-popcorn.blogspot.com/feeds/posts/default" htmlUrl="http://qrp-popcorn.blogspot.com/"/>
-      <outline type="rss" text="QRPblog" xmlUrl="https://qrpblog.com/feed/" htmlUrl="https://qrpblog.com"/>
-      <outline type="rss" text="QSO365" xmlUrl="http://qso365.co.uk/feed/" htmlUrl="http://qso365.co.uk"/>
-      <outline type="rss" text="RF Head – HAB &amp; Ham Radio Experimentation" xmlUrl="http://rfhead.net/?feed=rss2" htmlUrl="https://rfhead.net"/>
-      <outline type="rss" text="Radio Artisan" xmlUrl="http://radioartisan.wordpress.com/feed/" htmlUrl="https://blog.radioartisan.com"/>
-      <outline type="rss" text="Radio Engineering Projects powered by DK7IH (Peter)" xmlUrl="https://radiotransmitter.wordpress.com/feed/" htmlUrl="https://radiotransmitter.wordpress.com"/>
-      <outline type="rss" text="Real-World Amateur Radio" xmlUrl="http://mw1cfnradio.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://mw1cfnradio.blogspot.com/"/>
-      <outline type="rss" text="Ripples in the Ether" xmlUrl="http://www.nt7s.com/blog/feed/" htmlUrl="https://nt7s.com"/>
-      <outline type="rss" text="SPARKY's Blog" xmlUrl="http://www.cqdx.ru/ham/feed/" htmlUrl="http://www.cqdx.ru/ham"/>
-      <outline type="rss" text="Scanning the Airwaves" xmlUrl="https://w1pac.pacmannion.net/feeds/posts/default?alt=rss" htmlUrl="https://w1pac.pacmannion.net/"/>
-      <outline type="rss" text="Shortwave DX blog" xmlUrl="http://shortwavedx.blogspot.com/feeds/posts/default" htmlUrl="https://shortwavedx.blogspot.com/"/>
-      <outline type="rss" text="Steve G1KQH's Amateur Radio Blog &quot;The Font of all Knowledge&quot;" xmlUrl="http://g1kqh.blogspot.com/feeds/posts/default" htmlUrl="http://g1kqh.blogspot.com/"/>
-      <outline type="rss" text="The &quot;Speaky&quot; HF SSB transceiver and other homebrew projects" xmlUrl="http://speakyssb.blogspot.com/feeds/posts/default" htmlUrl="http://speakyssb.blogspot.com/"/>
-      <outline type="rss" text="The Adventure Radio Society" xmlUrl="http://arsqrp.blogspot.com/feeds/posts/default" htmlUrl="http://arsqrp.blogspot.com/"/>
-      <outline type="rss" text="The Adventures of VE3FI" xmlUrl="http://ve3clq.blogspot.com/feeds/posts/default" htmlUrl="http://ve3clq.blogspot.com/"/>
-      <outline type="rss" text="The Amateur Amateur" xmlUrl="http://www.the-amateur-amateur.com/rssfeed.xml" htmlUrl="http://www.the-amateur-amateur.com"/>
-      <outline type="rss" text="The Boring Ham Radio Part" xmlUrl="http://boringhamradiopart.blogspot.com/feeds/posts/default" htmlUrl="http://boringhamradiopart.blogspot.com/"/>
-      <outline type="rss" text="The Daily Antenna" xmlUrl="https://dailyantenna.blogspot.com/feeds/posts/default" htmlUrl="https://dailyantenna.blogspot.com/"/>
-      <outline type="rss" text="The Driven Element" xmlUrl="https://blog.thedrivenelement.com/feed/" htmlUrl="https://blog.thedrivenelement.com"/>
-      <outline type="rss" text="The KØNR Radio Site" xmlUrl="http://www.k0nr.com/blog/atom.xml" htmlUrl="https://www.k0nr.com/wordpress"/>
-      <outline type="rss" text="The Life of Kenneth" xmlUrl="http://feeds.feedburner.com/TheLifeOfKenneth" htmlUrl="http://blog.thelifeofkenneth.com/"/>
-      <outline type="rss" text="The SWLing Post" xmlUrl="https://swling.com/blog/feed/" htmlUrl="https://swling.com/blog"/>
-      <outline type="rss" text="Travel Blog" xmlUrl="http://w5nyv.blogspot.com/feeds/posts/default" htmlUrl="http://w5nyv.blogspot.com/"/>
-      <outline type="rss" text="VE3WDM's QRPower BLOG" xmlUrl="http://ve3wdm.blogspot.com/feeds/posts/default" htmlUrl="http://ve3wdm.blogspot.com/"/>
-      <outline type="rss" text="VE7SL - Steve - Amateur Radio Blog" xmlUrl="http://ve7sl.blogspot.com/feeds/posts/default" htmlUrl="http://ve7sl.blogspot.com/"/>
-      <outline type="rss" text="VE8EV - Amateur Radio From the Top of the World" xmlUrl="http://ve8ev.blogspot.com/feeds/posts/default" htmlUrl="http://ve8ev.blogspot.com/"/>
-      <outline type="rss" text="VK3HN" xmlUrl="https://vk3hn.wordpress.com/feed/" htmlUrl="https://vk3hn.wordpress.com"/>
-      <outline type="rss" text="W2LJ QRP - When you care to send the very least!" xmlUrl="http://w2lj.blogspot.com/feeds/posts/default" htmlUrl="http://w2lj.blogspot.com/"/>
-      <outline type="rss" text="W9WSW" xmlUrl="http://w9wsw.com/?feed=rss2" htmlUrl="https://www.w9wsw.com"/>
-      <outline type="rss" text="WB3GCK QRP Amateur Radio" xmlUrl="https://wb3gck.com/feed/" htmlUrl="https://wb3gck.com"/>
-      <outline type="rss" text="WB4SON" xmlUrl="http://wb4son.com/wpblog/?feed=rss2" htmlUrl="https://wb4son.com/wpblog"/>
-      <outline type="rss" text="WW1L" xmlUrl="http://blog.dxers.info/feeds/posts/default" htmlUrl="http://blog.dxers.info/"/>
-      <outline type="rss" text="With Varying Frequency – Amateur Radio Ponderings" xmlUrl="http://k9zw.wordpress.com/feed/" htmlUrl="https://k9zw.wordpress.com"/>
-      <outline type="rss" text="WØEA Blog!" xmlUrl="http://w0ea.blogspot.com/feeds/posts/default" htmlUrl="https://www.w0ea.us/"/>
-      <outline type="rss" text="fyngyrz" xmlUrl="http://fyngyrz.com/?feed=rss2" htmlUrl="https://fyngyrz.com"/>
-      <outline type="rss" text="hamseatingchicken.com" xmlUrl="https://hamseatingchicken.com/feed/" htmlUrl="https://hamseatingchicken.com"/>
-      <outline type="rss" text="marxy's musing on technology" xmlUrl="http://blog.marxy.org/feeds/posts/default" htmlUrl="http://blog.marxy.org/"/>
-      <outline type="rss" text="mcHF QRP transceiver" xmlUrl="http://www.m0nka.co.uk/?feed=rss2" htmlUrl="http://www.m0nka.co.uk"/>
-      <outline type="rss" text="owenduffy.net" xmlUrl="http://owenduffy.net/blog/?feed=rss2" htmlUrl="https://owenduffy.net/blog"/>
-      <outline type="rss" text="rtl-sdr.com" xmlUrl="http://www.rtl-sdr.com/feed/" htmlUrl="https://www.rtl-sdr.com"/>
-      <outline type="rss" text="ve3ips" xmlUrl="https://ve3ips.wordpress.com/feed/" htmlUrl="https://ve3ips.wordpress.com"/>
-      <outline type="rss" text="KB6NU's Ham Radio Blog" xmlUrl="https://www.kb6nu.com/feed/" htmlUrl="https://www.kb6nu.com"/>
-      <outline type="rss" text="W2LJ QRP  -  When you care to send the very least!" xmlUrl="https://w2lj.blogspot.com/feeds/posts/default" htmlUrl="https://w2lj.blogspot.com/"/>
-      <outline type="rss" text="Our HAM Station" xmlUrl="https://stationproject.blog/feed/" htmlUrl="https://stationproject.blog"/>
-      <outline type="rss" text="AMSAT-UK" xmlUrl="http://www.uk.amsat.org/feed" htmlUrl="https://amsat-uk.org"/>
-      <outline type="rss" text="Amateur Radio Newsline™" xmlUrl="http://www.arnewsline.org/news/rss.xml" htmlUrl="https://www.arnewsline.org/"/>
-      <outline type="rss" text="Amateur/Ham Radio" xmlUrl="http://www.reddit.com/r/amateurradio/.rss" htmlUrl="https://www.reddit.com/r/amateurradio/"/>
-      <outline type="rss" text="AmateurRadio.com" xmlUrl="http://www.amateurradio.com/feed/" htmlUrl="https://www.amateurradio.com"/>
-      <outline type="rss" text="American Radio Relay League | Ham Radio Association and Resources" xmlUrl="http://www.arrl.org/arrl.rss" htmlUrl="http://www.arrl.org"/>
-      <outline type="rss" text="CQ Newsroom" xmlUrl="http://cqnewsroom.blogspot.com/feeds/posts/default" htmlUrl="http://cqnewsroom.blogspot.com/"/>
-      <outline type="rss" text="DX News Ham Radio Amateur Radio News" xmlUrl="http://dxnews.com/rss.xml" htmlUrl="https://dxnews.com/"/>
-      <outline type="rss" text="FISTS Eu/UK News" xmlUrl="http://www.fists.co.uk/rss.xml" htmlUrl="https://www.fists.co.uk/news.html"/>
-      <outline type="rss" text="HamSCI" xmlUrl="http://hamsci.org/rss.xml" htmlUrl="https://hamsci.org"/>
-      <outline type="rss" text="Radio Society of Great Britain – Main Site" xmlUrl="http://rsgb.org/main/feed/" htmlUrl="http://rsgb.org/main"/>
-      <outline type="rss" text="SatNOGS" xmlUrl="https://satnogs.org/feed/" htmlUrl="https://satnogs.org"/>
-      <outline type="rss" text="SolderSmoke Daily News" xmlUrl="http://soldersmoke.blogspot.com/feeds/posts/default" htmlUrl="http://soldersmoke.blogspot.com/"/>
-      <outline type="rss" text="Southgate Amateur Radio News RSS Feed" xmlUrl="http://www.southgatearc.org/sarc.rss" htmlUrl="http://www.southgatearc.org"/>
-      <outline type="rss" text="State of the Hobby" xmlUrl="http://www.radiosoth.org/feeds/posts/default?alt=rss" htmlUrl="https://www.radiosoth.org/"/>
-      <outline type="rss" text="The DXZone.com Amateur Radio Internet Guide" xmlUrl="http://www.dxzone.com/catalog/dxzone.xml" htmlUrl="https://www.dxzone.com/"/>
-      <outline type="rss" text="Utility Planet" xmlUrl="http://mt-utility.blogspot.com/feeds/posts/default" htmlUrl="http://mt-utility.blogspot.com/"/>
-      <outline type="rss" text="WSPRnet" xmlUrl="http://wsprnet.org/drupal/rss.xml" htmlUrl="http://wsprnet.org/drupal"/>
-      <outline type="rss" text="Wireless Institute of Australia News Netcast" xmlUrl="http://www.wia-files.com/podcast/wianews.xml" htmlUrl="http://www.wia.org.au/members/broadcast/audio/"/>
-      <outline type="rss" text="rtl-sdr.com" xmlUrl="https://www.rtl-sdr.com/feed" htmlUrl="https://www.rtl-sdr.com"/>
+    <outline text="Other Ham Radio Blogs">
+      <outline text="Advancing Ham Radio.. different ideas" type="rss" xmlUrl="http://feeds.feedburner.com/AdvancingHamRadioDifferentIdeas" htmlUrl="http://kb9mwr.blogspot.com/" description="Experimentation seems lost in the hobby.  This is my attempt to spread some new ideas and help enable those who want to explore something new.."/>
+      <outline text="AE5X" type="rss" xmlUrl="http://ae5x.blogspot.com/feeds/posts/default" htmlUrl="http://ae5x.blogspot.com/" description=""/>
+      <outline text="AmateurRadio.com" type="rss" xmlUrl="https://www.amateurradio.com/feed/" htmlUrl="https://www.amateurradio.com" description="International Ham Radio News &amp; Opinion"/>
+      <outline text="Amateur Radio/YL's" type="rss" xmlUrl="http://ka1uln.blogspot.com/feeds/posts/default" htmlUrl="http://ka1uln.blogspot.com/" description="BUDDY-UP Project: ALL YL's work together."/>
+      <outline text="Amateur Radio Newsline™" type="rss" xmlUrl="http://www.arnewsline.org/news/rss.xml" htmlUrl="https://www.arnewsline.org/" description="Amateur Radio related weekly news digest"/>
+      <outline text="AMATEUR RADIO – HOMEBREW SDR" type="rss" xmlUrl="https://w7fu.com/feed/" htmlUrl="http://w7fu.com" description="John Petrich, W7FU"/>
+      <outline text="American Radio Relay League | Ham Radio Association and Resources" type="rss" xmlUrl="http://www.arrl.org/arrl.rss" htmlUrl="http://www.arrl.org" description="The American Radio Relay League (ARRL) is the national association for amateur radio, connecting hams around the U.S. with news, information and resources."/>
+      <outline text="AMSAT-UK" type="rss" xmlUrl="http://www.uk.amsat.org/feed" htmlUrl="https://amsat-uk.org" description="Radio Amateur Satellites"/>
+      <outline text="Blog" type="rss" xmlUrl="https://amateurfunk-blog.de/blog?format=feed&amp;amp;type=rss" htmlUrl="https://www.dk9jc.de/" description="DK9JC.de / Amateurfunk-Blog.de is a private website about radio communication by John, DK9JC. It is about SOTA, satellite radio, AMSAT, technical tinkering and from time to time about legal conditions and current news and trends around amateur radio."/>
+      <outline text="CQ Newsroom" type="rss" xmlUrl="http://cqnewsroom.blogspot.com/feeds/posts/default" htmlUrl="http://cqnewsroom.blogspot.com/" description="News and information of interest to ham radio operators from CQ Amateur Radio magazine, the world's leading independent ham radio magazine."/>
+      <outline text="Dave Richards AA7EE" type="rss" xmlUrl="http://aa7ee.wordpress.com/feed/" htmlUrl="https://aa7ee.wordpress.com" description=""/>
+      <outline text="Dom Smith" type="rss" xmlUrl="http://www.domsmith.co.uk/blog/feed/" htmlUrl="https://www.domsmith.co.uk/blog" description="AWS Solutions Architect, Agilist, Radio Ham (M0BLF) and lots more besides"/>
+      <outline text="DuWayne's Place" type="rss" xmlUrl="http://kv4qb.blogspot.com/feeds/posts/default" htmlUrl="http://kv4qb.blogspot.com/" description="A place for me to share information about my latest Ham Radio and electronics projects."/>
+      <outline text="DX News Ham Radio Amateur Radio News" type="rss" xmlUrl="http://dxnews.com/rss.xml" htmlUrl="https://dxnews.com/" description="DX News DX Information for DXers"/>
+      <outline text="EI7GL....A diary of amateur radio activity" type="rss" xmlUrl="https://ei7gl.blogspot.com/feeds/posts/default" htmlUrl="https://ei7gl.blogspot.com/" description="Reporting on radio science and experiments"/>
+      <outline text="FISTS Eu/UK News" type="rss" xmlUrl="http://www.fists.co.uk/rss.xml" htmlUrl="https://www.fists.co.uk/news.html" description="News items from the FISTS CW Club Eu/UK"/>
+      <outline text="G0KYA's Amateur Radio Blog" type="rss" xmlUrl="http://g0kya.blogspot.com/feeds/posts/default" htmlUrl="http://g0kya.blogspot.com/" description="Thanks for stopping by. This is where I publish a lot of my features and thoughts on HF propagation, antennas and other ham radio topics. I write for a number of radio magazines, including the RSGB's RadCom and ARRL's QST. I am also chairman of the RSGB's Propagation Studies Committee and produce the weekly HF propagation report for GB2RS. When not playing radio I'm a professional journalist specialising in aerospace, science and technology and am also author of four RSGB books."/>
+      <outline text="G0MGX In the Shack" type="rss" xmlUrl="http://g0mgx.blogspot.com/feeds/posts/default" htmlUrl="http://g0mgx.blogspot.com/" description="Musings from the Radio Shack of G0MGX in Central England."/>
+      <outline text="GM5ALX" type="rss" xmlUrl="https://gm5alx.uk/feed/" htmlUrl="https://gm5alx.uk/" description="So many rabbit holes, you’ll struggle to find ground"/>
+      <outline text="Ham Radio - QRP" type="rss" xmlUrl="http://n4pbq.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://www.hamradioqrp.com/" description="Lower your Power&#10;&#10;Raise your Expectations"/>
+      <outline text="Ham Radio . Magnum Experimentum" type="rss" xmlUrl="http://www.hamradio.me/feed" htmlUrl="https://www.hamradio.me" description="Antennas, experiments, engineering and other articles of interest to radio folks."/>
+      <outline text="Ham Radio Blog by AG1LE" type="rss" xmlUrl="http://ag1le.blogspot.com/feeds/posts/default" htmlUrl="http://ag1le.blogspot.com/" description="Ham radio projects and experiments  by AG1LE"/>
+      <outline text="Ham Radio Operator - M0YKS" type="rss" xmlUrl="http://hamradiooperator.blogspot.com/feeds/posts/default" htmlUrl="https://hamradiooperator.blogspot.com/" description="Ham Radio&#10;&#10;Experiments &amp; Fun With Simon M0YKS &#10;Yorkshire UK"/>
+      <outline text="Ham Radio with K0PIR – Icom 7300 and 7610 SDR Transceivers" type="rss" xmlUrl="http://www.k0pir.us/feed/" htmlUrl="https://www.k0pir.us" description="Icom 7300, Icom 7610, Elecraft K3S, KX2, Windows, MacOS, Raspberry Pi, Digital Modes and Contest Software for Amateur Radio"/>
+      <outline text="Ham Radio Workbench Podcast" type="rss" xmlUrl="https://workbench.libsyn.com/rss" htmlUrl="http://hamradioworkbench.com/" description="This is your bi-weekly deep dive on making, DIY, electronics, and technical topics of interest to the radio amateur.  Join your host George KJ6VU and the HRWB team as they discuss current developments in ham radio while introducing listeners to a plethora of topics and skills such as test equipment, 3D Printing, Arduino, Raspberry Pi, and more.  Ham radio is a hobby of hobbies - George and team introduce hams of all ages to experimenting and learning within ham radio, which can be one of the most rewarding aspects of the hobby.  &#10;&#10;We are proudly sponsored by Autodesk Eagle PCB design tools, Flex Radio and Digikey."/>
+      <outline text="Ham Radio – Ham Events – Ham Reviews – Ham Links – Ham News" type="rss" xmlUrl="http://ke2yk.wordpress.com/feed/" htmlUrl="https://ke2yk.com" description="Explore Homebrew Projects, Software and Equipment to Improve Your Ham Radio Experience!"/>
+      <outline text="HamSCI" type="rss" xmlUrl="https://hamsci.org/rss.xml" htmlUrl="https://hamsci.org" description=""/>
+      <outline text="hamseatingchicken.com" type="rss" xmlUrl="https://hamseatingchicken.com/feed/" htmlUrl="https://hamseatingchicken.com" description="The Premier World Wide Ham Radio Small-Town Community Site"/>
+      <outline text="HAMSPIRIT.DE" type="rss" xmlUrl="https://www.hamspirit.de/feed/" htmlUrl="https://www.hamspirit.de" description="Das Amateurfunk-Blog"/>
+      <outline text="HF Radio Blog" type="rss" xmlUrl="http://m6rdp.blogspot.com/feeds/posts/default" htmlUrl="http://m6rdp.blogspot.com/" description=""/>
+      <outline text="K4FMH" type="rss" xmlUrl="http://k4fmh.com/feed/" htmlUrl="http://k4fmh.com" description="A blog about amateur radio ..."/>
+      <outline text="K8UA" type="rss" xmlUrl="http://k8ua.com/feed/" htmlUrl="http://k8ua.com" description="on the road, on the air, online"/>
+      <outline text="K8ZT" type="rss" xmlUrl="http://k8zt.blogspot.com/feeds/posts/default" htmlUrl="https://k8zt.blogspot.com/" description=""/>
+      <outline text="KA7OEI's blog" type="rss" xmlUrl="http://ka7oei.blogspot.com/feeds/posts/default" htmlUrl="http://ka7oei.blogspot.com/" description="&lt;i&gt;Random musings - usually on a technical (nerdy) subject - perhaps related to amateur radio and things found at &lt;a href=&quot;http://ka7oei.com/&quot;&gt;&lt;b&gt;&lt;u&gt;ka7oei.com&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;/i&gt; and &lt;i&gt;&lt;a href=&quot;http://modulatedlight.org/&quot;&gt;&lt;b&gt;&lt;u&gt;modulatedlight.org&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;/i&gt;"/>
+      <outline text="KB6NU's Ham Radio Blog" type="rss" xmlUrl="http://kb6nu.com/feed/" htmlUrl="https://www.kb6nu.com" description=""/>
+      <outline text="KB9VBR Antennas" type="rss" xmlUrl="http://feeds.feedburner.com/Kb9vbrJ-poleAntennas" htmlUrl="https://www.jpole-antenna.com" description="VHF/UHF antennas"/>
+      <outline text="KD8CEC Amateur Radio" type="rss" xmlUrl="http://www.hamskey.com/feeds/posts/default?alt=rss" htmlUrl="http://www.hamskey.com/" description=""/>
+      <outline text="KE6MT" type="rss" xmlUrl="https://www.ke6mt.us/feed/" htmlUrl="http://www.ke6mt.us/" description="Summits on the Air, Ham Radio, Outdoors, Electronics"/>
+      <outline text="KN4CFI's Ham Radio Blog - RSS" type="rss" xmlUrl="https://blog.kn4cfi.net/feeds/posts/default?alt=rss" htmlUrl="https://blog.kn4cfi.net/" description=""/>
+      <outline text="LA3ZA Radio &amp; Electronics" type="rss" xmlUrl="http://la3za.blogspot.com/feeds/posts/default" htmlUrl="https://la3za.blogspot.com/" description=""/>
+      <outline text="M0AWS Amateur Radio" type="rss" xmlUrl="https://m0aws.co.uk/?feed=rss2" htmlUrl="https://m0aws.co.uk/" description="Talking to the world one station at a time"/>
+      <outline text="M0PZT" type="rss" xmlUrl="http://www.m0pzt.com/feed/" htmlUrl="http://www.m0pzt.com" description="All Shacks are messy. In fact, the better the Shack the messier it is..."/>
+      <outline text="M1KTA's QRP ham radio blog" type="rss" xmlUrl="http://m1kta-qrp.blogspot.com/feeds/posts/default" htmlUrl="http://m1kta-qrp.blogspot.com/" description="Other than a trip which might get the odd mention I will detail projects I am working on, what I want to be working on and what I have otherwise to report on.&#10;&#10;I will update the individual projects as they advance.&#10;&#10;As asked I have started to catalogue the references I have follow the link on the left where you can obtain them too. Want to email me wander over to qrz.com and you'll find my email address there. Also twitter @m1kta_qrp"/>
+      <outline text="marxy's musing on technology" type="rss" xmlUrl="http://blog.marxy.org/feeds/posts/default" htmlUrl="http://blog.marxy.org/" description="A bloke with too many hobbies."/>
+      <outline text="MiscDotGeek" type="rss" xmlUrl="http://miscdotgeek.com/feed/" htmlUrl="https://miscdotgeek.com" description="QRP, Reviews, Hacks, and general Geekery."/>
+      <outline text="My Amateur Radio Life" type="rss" xmlUrl="http://va3qv.wordpress.com/feed/" htmlUrl="https://va3qv.wordpress.com" description=""/>
+      <outline text="N0UN.net" type="rss" xmlUrl="http://www.n0un.net/feed/" htmlUrl="https://www.n0un.net" description="One Stop Shop For All Things DX"/>
+      <outline text="N1CLC" type="rss" xmlUrl="https://www.n1clc.com/feeds/posts/default?alt=rss" htmlUrl="https://www.n1clc.com/" description="Amateur Radio / HAM BLOG for N1CLC"/>
+      <outline text="N4KGL - RaDAR" type="rss" xmlUrl="http://www.n4kgl.info/feeds/posts/default" htmlUrl="https://www.n4kgl.info/" description="I enjoy Rapid Deployment Amateur Radio, Field Days, QRP, satellites, and CW.  I have many friends in the hobby that make it fun. I will keep you posted on what I learn about amateur radio on this blog."/>
+      <outline text="N6QW ~ The Ham Oracle" type="rss" xmlUrl="http://n6qw.blogspot.com/feeds/posts/default" htmlUrl="http://n6qw.blogspot.com/" description="Shameless Commerce: Visit the Soldersmoke You Tube Channel (LHU)"/>
+      <outline text="Nuclearrambo" type="rss" xmlUrl="https://nuclearrambo.com/wordpress/feed/" htmlUrl="https://nuclearrambo.com/wordpress" description="Information is FREE! Progress is MUST! Awakening is inevitable!"/>
+      <outline text="NØSSC's Ham Radio Blog" type="rss" xmlUrl="http://n0ssc.com/feed" htmlUrl="https://n0ssc.com" description="The ham radio blog of Sterling Mann, NØSSC. Sterling is dedicated to improving ham radio by promoting it to younger generations."/>
+      <outline text="Off Grid Ham" type="rss" xmlUrl="http://offgridham.com/feed/" htmlUrl="https://offgridham.com" description="Keeping amateur radio on when the grid is gone"/>
+      <outline text="OH8STN Ham Radio" type="rss" xmlUrl="http://oh8stn.org/feed/" htmlUrl="http://oh8stn.org" description="Ham Radio, NVIS, QRP, Man-Portable, Radio Operator,  Off Grid Comms, Survival Radio, Grid Down Comms, LiFePO4 Battery, Solar Generator, Portable Power, Winlink, JS8Call, VARAC, Robust Packet, Emergency Communications, Preparedness, Ham Radio with a Microsoft Surface"/>
+      <outline text="ON5ZO  ~  OQ5M" type="rss" xmlUrl="http://www.on5zo.be/feed/" htmlUrl="https://www.on5zo.be" description=""/>
+      <outline text="OnAllBands" type="rss" xmlUrl="https://www.onallbands.com/feed/" htmlUrl="https://www.onallbands.com" description="An Amateur Radio Blog by DX Engineering"/>
+      <outline text="Our HAM Station" type="rss" xmlUrl="https://stationproject.blog/feed/" htmlUrl="https://stationproject.blog" description="Notes on the construction and operation of a multi-op Amateur Radio Station"/>
+      <outline text="owenduffy.net" type="rss" xmlUrl="https://owenduffy.net/blog/?feed=rss2" htmlUrl="https://owenduffy.net/blog" description="Mostly electronics..."/>
+      <outline text="PA1B's QRPp Blog" type="rss" xmlUrl="http://pa1b-qrp.blogspot.com/feeds/posts/default" htmlUrl="http://pa1b-qrp.blogspot.com/" description="Power Attenuator                            1000 Miles per Watt                WSPR Propagation Analysis&lt;br&gt;&#10;How I work with the Lowest possible power in CW QSO's with QRP and QRPp        "/>
+      <outline text="PA3HHO's" type="rss" xmlUrl="http://pa3hho.wordpress.com/feed/" htmlUrl="https://pa3hho.wordpress.com" description="HALF WAVE END FED HWEF / EFHW ANTENNA / RADIO AMATEUR BLOG"/>
+      <outline text="Paul Gacek" type="rss" xmlUrl="https://w6png.wordpress.com/feed/" htmlUrl="https://nomadic.blog" description="W6PNG/M0SNA"/>
+      <outline text="PE4BAS Amateur Radio Weblog" type="rss" xmlUrl="https://pe4bas.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://pe4bas.blogspot.com/" description="Amateur radio weblog. All about my radio adventures and more.&lt;p&gt;&#10;&#10;Amateur radio weblog. All about my radio adventures and  more&lt;/p&gt;"/>
+      <outline text="PriUPS web site and RIKLblog" type="rss" xmlUrl="http://www.priups.com/rss.xml" htmlUrl="http://priups.com" description="RSS Feed for RIKLblog and PriUPS web site updates"/>
+      <outline text="QRPblog" type="rss" xmlUrl="https://qrpblog.com/feed/" htmlUrl="https://qrpblog.com" description="News, portable adventures and building high-power amplifiers. LDMOS linear kits available in the shop!"/>
+      <outline text="QRP HomeBuilder - QRPHB -" type="rss" xmlUrl="http://qrp-popcorn.blogspot.com/feeds/posts/default" htmlUrl="http://qrp-popcorn.blogspot.com/" description="Component level (mostly analog) electronics from microwave to AF. Jazz guitar and guitar amplifiers. Radio astronomy."/>
+      <outline text="QSO365" type="rss" xmlUrl="http://qso365.co.uk/feed/" htmlUrl="http://qso365.co.uk" description="An amateur radio blog by G6NHU (previously A QSO per day in 2011)"/>
+      <outline text="Radio Artisan" type="rss" xmlUrl="http://radioartisan.wordpress.com/feed/" htmlUrl="https://blog.radioartisan.com" description="amateur radio journey"/>
+      <outline text="Radio Engineering Projects powered by DK7IH (Peter)" type="rss" xmlUrl="https://radiotransmitter.wordpress.com/feed/" htmlUrl="https://radiotransmitter.wordpress.com" description="This blog is no longer in use!"/>
+      <outline text="Radio Society of Great Britain – Main Site" type="rss" xmlUrl="http://rsgb.org/main/feed/" htmlUrl="http://rsgb.org/main" description="Working for the future of Amateur Radio"/>
+      <outline text="Real-World Amateur Radio" type="rss" xmlUrl="http://mw1cfnradio.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://mw1cfnradio.blogspot.com/" description="Ham radio on the cheap, encouraging newcomers to the hobby, and a bit of science."/>
+      <outline text="RF Head – HAB &amp; Ham Radio Experimentation" type="rss" xmlUrl="http://rfhead.net/?feed=rss2" htmlUrl="https://rfhead.net" description="Hamming it up since 2011!"/>
+      <outline text="Ripples in the Ether" type="rss" xmlUrl="http://www.nt7s.com/blog/feed/" htmlUrl="https://nt7s.com" description="Emanations from Amateur Radio Station NT7S"/>
+      <outline text="rtl-sdr.com" type="rss" xmlUrl="https://www.rtl-sdr.com/feed" htmlUrl="https://www.rtl-sdr.com" description="RTL-SDR (RTL2832U) and software defined radio news and projects. Also featuring Airspy, HackRF, FCD, SDRplay and more."/>
+      <outline text="SatNOGS" type="rss" xmlUrl="https://satnogs.org/feed/" htmlUrl="https://satnogs.org" description="Open Source global network of satellite ground-stations"/>
+      <outline text="Scanning the Airwaves" type="rss" xmlUrl="https://w1pac.pacmannion.net/feeds/posts/default?alt=rss" htmlUrl="https://w1pac.pacmannion.net/" description="My adventures in ham radio, radio scanning and monitoring."/>
+      <outline text="Shortwave DX blog" type="rss" xmlUrl="https://shortwavedx.blogspot.com/feeds/posts/default" htmlUrl="https://shortwavedx.blogspot.com/" description="Free radio logs, news, QSLs and much more... from both shortwave and medium wave"/>
+      <outline text="SolderSmoke Daily News" type="rss" xmlUrl="http://soldersmoke.blogspot.com/feeds/posts/default" htmlUrl="http://soldersmoke.blogspot.com/" description="Serving the worldwide community of radio-electronic homebrewers.&#10;&#10;Providing blog support to the SolderSmoke podcast:&#10; &#10;http://soldersmoke.com"/>
+      <outline text="Southgate Amateur Radio News RSS Feed" type="rss" xmlUrl="http://www.southgatearc.org/sarc.rss" htmlUrl="http://www.southgatearc.org" description="An aggregate of Ham Radio related news."/>
+      <outline text="SPARKY's Blog" type="rss" xmlUrl="http://www.cqdx.ru/ham/feed/" htmlUrl="http://www.cqdx.ru/ham" description=""/>
+      <outline text="Steve G1KQH's Amateur Radio Blog &quot;The Font of all Knowledge&quot;" type="rss" xmlUrl="http://g1kqh.blogspot.com/feeds/posts/default" htmlUrl="http://g1kqh.blogspot.com/" description="QRP construction. Innovation. Software. Ham Radio news and views."/>
+      <outline text="The &quot;Speaky&quot; HF SSB transceiver and other homebrew projects" type="rss" xmlUrl="http://speakyssb.blogspot.com/feeds/posts/default" htmlUrl="http://speakyssb.blogspot.com/" description="Homebrew of radio equipment, antennas, tuner, etc."/>
+      <outline text="The Adventure Radio Society" type="rss" xmlUrl="http://arsqrp.blogspot.com/feeds/posts/default" htmlUrl="http://arsqrp.blogspot.com/" description="Welcome to the Internet home of the Adventure Radio Society's Spartan Sprint and Flight of the Bumblebees"/>
+      <outline text="The Adventures of VE3FI" type="rss" xmlUrl="http://ve3clq.blogspot.com/feeds/posts/default" htmlUrl="http://ve3clq.blogspot.com/" description=""/>
+      <outline text="The Boring Ham Radio Part" type="rss" xmlUrl="http://boringhamradiopart.blogspot.com/feeds/posts/default" htmlUrl="http://boringhamradiopart.blogspot.com/" description="Ramblings on Amateur Radio, Flying, Programming, Martial Arts, the Macintosh and  Who Knows What."/>
+      <outline text="The Daily Antenna" type="rss" xmlUrl="https://dailyantenna.blogspot.com/feeds/posts/default" htmlUrl="https://dailyantenna.blogspot.com/" description="Amateur radio antennas, circuits, techniques and related topics. By Peter Parker VK3YE/AK3YE. &#10;&#10;Newer material appears at https://vk3ye.com and https://youtube.com/vk3ye ."/>
+      <outline text="The Driven Element" type="rss" xmlUrl="https://blog.thedrivenelement.com/feed/" htmlUrl="https://blog.thedrivenelement.com" description="A blog about strategy, tech, startups, amateur radio and maybe a little photography."/>
+      <outline text="The DXZone.com Amateur Radio Internet Guide" type="rss" xmlUrl="https://www.dxzone.com/catalog/dxzone.xml" htmlUrl="https://www.dxzone.com/" description="Latest articles, reviews and links posted to The DXZone.com, an amateur radio, cb radio, scanning and shortwave radio, reference site"/>
+      <outline text="The KØNR Radio Site" type="rss" xmlUrl="http://www.k0nr.com/blog/atom.xml" htmlUrl="https://www.k0nr.com/wordpress" description="Amateur (ham) radio, VHF/UHF, portable operating, backcountry adventure and technical stuff"/>
+      <outline text="The Life of Kenneth" type="rss" xmlUrl="http://feeds.feedburner.com/TheLifeOfKenneth" htmlUrl="http://blog.thelifeofkenneth.com/" description=""/>
+      <outline text="The SWLing Post" type="rss" xmlUrl="https://swling.com/blog/feed/" htmlUrl="https://swling.com/blog" description="Shortwave listening and everything radio including reviews, broadcasting, ham radio, field operation, DXing, maker kits, travel, emergency gear, events, and more"/>
+      <outline text="Travel Blog" type="rss" xmlUrl="http://w5nyv.blogspot.com/feeds/posts/default" htmlUrl="http://w5nyv.blogspot.com/" description="Writings inspired by Travel."/>
+      <outline text="Utility Planet" type="rss" xmlUrl="http://mt-utility.blogspot.com/feeds/posts/default" htmlUrl="http://mt-utility.blogspot.com/" description="Utility Planet is the official blog for the column of the same name in The Spectrum Monitor. It replaces Utility World in the discontinued Monitoring Times magazine. Utilities are all VLF/LF/MF/HF (and sometimes low-band VHF) radio communications except broadcasting, CB, and non-emergency amateur.  If you understood the last sentence, you know enough to read this blog."/>
+      <outline text="ve3ips" type="rss" xmlUrl="https://ve3ips.wordpress.com/feed/" htmlUrl="https://ve3ips.wordpress.com" description=""/>
+      <outline text="VE7SL - Steve - Amateur Radio Blog" type="rss" xmlUrl="http://ve7sl.blogspot.com/feeds/posts/default" htmlUrl="http://ve7sl.blogspot.com/" description="Homebrewing and Operating Adventures From 2200m To Nanowaves"/>
+      <outline text="VE8EV - Amateur Radio From the Top of the World" type="rss" xmlUrl="http://ve8ev.blogspot.com/feeds/posts/default" htmlUrl="http://ve8ev.blogspot.com/" description="&quot;This ain't the same brand of Ham Radio they sell in Newington!&quot;"/>
+      <outline text="VK3HN" type="rss" xmlUrl="https://vk3hn.wordpress.com/feed/" htmlUrl="https://vk3hn.wordpress.com" description="Radio craft, homebrew, QRP/SOTA, AM"/>
+      <outline text="W2LJ QRP - When you care to send the very least!" type="rss" xmlUrl="http://w2lj.blogspot.com/feeds/posts/default" htmlUrl="http://w2lj.blogspot.com/" description=""/>
+      <outline text="WB3GCK QRP Amateur Radio" type="rss" xmlUrl="https://wb3gck.com/feed/" htmlUrl="https://wb3gck.com" description="Little radios, big fun!"/>
+      <outline text="WB4SON" type="rss" xmlUrl="http://wb4son.com/wpblog/?feed=rss2" htmlUrl="https://wb4son.com/wpblog" description="Attack of the Ham Radio Blog"/>
+      <outline text="Wireless Institute of Australia News Netcast" type="rss" xmlUrl="http://www.wia-files.com/podcast/wianews.xml" htmlUrl="http://www.wia.org.au/members/broadcast/audio/" description="Weekly broadcasts of the WIA news"/>
+      <outline text="With Varying Frequency – Amateur Radio Ponderings" type="rss" xmlUrl="http://k9zw.wordpress.com/feed/" htmlUrl="https://k9zw.wordpress.com" description="by Steve K9ZW"/>
+      <outline text="WW1L" type="rss" xmlUrl="http://blog.dxers.info/feeds/posts/default" htmlUrl="http://blog.dxers.info/" description=""/>
+      <outline text="WØEA Blog!" type="rss" xmlUrl="http://w0ea.blogspot.com/feeds/posts/default" htmlUrl="https://www.w0ea.us/" description="QRP Ham Radio, Portable Operating, SOTA, Homebrew and more!"/>
     </outline>
   </body>
 </opml>
