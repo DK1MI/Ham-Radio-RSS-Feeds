@@ -11,7 +11,7 @@ You can download the latest version here: https://codeberg.org/mclemens/Ham-Radi
 
 ## Feeds
 
-The following feeds are included in this OPML file:
+The following feeds are included in this OPML file (list is outdated, there are now many more):
 
 ### Fediverse Hams
  * 2M0SQL: https://www.2m0sql.com/feed/
