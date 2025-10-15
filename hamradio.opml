@@ -131,6 +131,5 @@
       <outline title="SolderSmoke Podcasts" text="SolderSmoke Podcasts" type="rss" xmlUrl="http://feeds.feedburner.com/soldersmoke/BirJ" htmlUrl="http://www.soldersmoke.com"/>
       <outline title="This Week in Amateur Radio" text="This Week in Amateur Radio" type="rss" xmlUrl="http://www.twiar.net/twiarpodcast.rss" htmlUrl="https://www.twiar.net"/>
     </outline>
-    <outline title="Nextcloud" text="Nextcloud" type="rss" xmlUrl="https://nextcloud.com/feed" htmlUrl="https://nextcloud.com/"/>
   </body>
 </opml>
